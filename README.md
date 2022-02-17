@@ -1,4 +1,4 @@
-## cd ~/Adam_Goler
+## Adam Goler
 
 You can use the [editor on GitHub](https://github.com/gol3tron/gol3tron.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
