@@ -1,33 +1,29 @@
-## Adam Goler
+## Welcome
 
 Hello! Welcome to my online resume/CV, blog and portfolio! Thanks for visiting!
 
 ### Key Skills
 
-* Leadership and team building
+* Leadership, team building, and teaching
 * Product development and project management
 * Design of Experiments
 * Data Analysis
 
 ### Employment History
 
-#### Civilian Experience
+* R&D Engineer, Pivotal Systems Corporation
 
-##### R&D Engineer, Pivotal Systems Corporation
+* Team Member, MARFORCYBER Reserve Capture the Flag Team
 
-#### Military Experience
+* S-6/Communications Platoon Commander, 6th Engineer Support Battalion
 
-##### Team Member, MARFORCYBER Reserve Capture the Flag Team
-
-##### S-6/Communications Platoon Commander, 6th Engineer Support Battalion
-
-##### Special Projects Officer, Marine Corps Communication-Electronics School
+* Special Projects Officer, Marine Corps Communication-Electronics School
 
 ### Education
 
-#### PhD, Physics, Washington State University, 2015
+* PhD, Physics, Washington State University, 2015
 
-#### BS, Physics and Mathematics, American University, 2009
+* BS, Physics and Mathematics, American University, 2009
 
 ### Other skills and interests
 
@@ -36,3 +32,7 @@ Hello! Welcome to my online resume/CV, blog and portfolio! Thanks for visiting!
 * Amateur Radio License (General Class)
 
 ### Contact
+
+* [LinkedIn](https://www.linkedin.com/in/asgoler/) 
+* [ResearchGate](https://www.researchgate.net/profile/Adam-Goler)
+* [GitHub](https://github.com/gol3tron)
