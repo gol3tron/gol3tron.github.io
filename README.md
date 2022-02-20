@@ -1,37 +1,38 @@
-## Adam Goler
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/gol3tron/gol3tron.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! Welcome to my online resume/CV, blog and portfolio! Thanks for visiting!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+### Key Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Leadership, team building, and teaching
+* Product development and project management
+* Design of Experiments
+* Data Analysis
 
-```markdown
-Syntax highlighted code block
+### Employment History
 
-# Header 1
-## Header 2
-### Header 3
+* R&D Engineer, Pivotal Systems Corporation
+* Team Member, MARFORCYBER Reserve Capture the Flag Team
+* S-6/Communications Platoon Commander, 6th Engineer Support Battalion
+* Special Projects Officer, Marine Corps Communication-Electronics School
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+* PhD, Physics, Washington State University, 2015
+* BS, Physics and Mathematics, American University, 2009
 
-**Bold** and _Italic_ and `Code` text
+### Other skills and interests
 
-[Link](url) and ![Image](src)
-```
+* Commercial Pilot Single Engine Land w/ Instrument Rating (290 hours TT)
+* FAA First Class Medical
+* Amateur Radio License (General Class)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact
 
-### Jekyll Themes
+* [LinkedIn](https://www.linkedin.com/in/asgoler/) 
+* [ResearchGate](https://www.researchgate.net/profile/Adam-Goler)
+* [GitHub](https://github.com/gol3tron)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gol3tron/gol3tron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
