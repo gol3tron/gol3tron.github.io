@@ -2,6 +2,8 @@
 
 Hello! Welcome to my online resume/CV, blog and portfolio! Thanks for visiting!
 
+***
+
 ### Key Skills
 
 * Leadership, team building, and teaching
@@ -32,3 +34,5 @@ Hello! Welcome to my online resume/CV, blog and portfolio! Thanks for visiting!
 * [LinkedIn](https://www.linkedin.com/in/asgoler/) 
 * [ResearchGate](https://www.researchgate.net/profile/Adam-Goler)
 * [GitHub](https://github.com/gol3tron)
+
+***
