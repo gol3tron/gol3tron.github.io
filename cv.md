@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /cv/
+title: CV
 ---
 
 ## Adam Goler
