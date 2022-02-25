@@ -4,8 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-## A little about me
-
 I'm a physicist by training, interested in building teams to solve challenging problems, and looking to make a positive impact on the world around me.
 
 ## Research experience
