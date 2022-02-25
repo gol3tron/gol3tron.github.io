@@ -78,7 +78,7 @@ FAA First Class Medical
 
 Amateur Radio License (General Class)
 
-### Communicty Outreach
+### Community Outreach
 
 *Volunteer Dog Walker, [Friends of Homeless Animals](https://foha.org/) (September 2015 - June 2016)*
 
