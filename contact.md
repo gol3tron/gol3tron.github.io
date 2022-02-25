@@ -4,6 +4,8 @@ permalink: /contact/
 title: "Contact"
 ---
 
+Get in touch!
+
 <form action="https://getform.io/f/8936829c-cd06-4e04-b409-a405a44f1c9f" method="POST">
     <input type="text" name="name">
     <input type="email" name="email">
