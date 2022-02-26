@@ -1,8 +1,11 @@
 ---
 layout: page
 permalink: /cv/
-title: ""
+title: "CV"
 ---
+
+Adam S. Goler
+
 [LinkedIn](https://www.linkedin.com/in/asgoler/) - [ResearchGate](https://www.researchgate.net/profile/Adam-Goler) - [GitHub](https://github.com/gol3tron)
 
 ### Key Skills
@@ -52,8 +55,6 @@ title: ""
 *Graduate Teaching/Research Assistant, Department of Physics and Astronomy, Washington State University (August 2009 - May 2015)*
 
 *[Adjunct Faculty, Department of Physics, American University](https://www.american.edu/cas/faculty/ag2866a.cfm) (May - August 2009)*
-
-
 
 ### Publications
 
