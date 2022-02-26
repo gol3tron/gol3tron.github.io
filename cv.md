@@ -4,7 +4,7 @@ permalink: /cv/
 title: "CV"
 ---
 
-Adam S. Goler
+## Adam S. Goler
 
 [LinkedIn](https://www.linkedin.com/in/asgoler/) - [ResearchGate](https://www.researchgate.net/profile/Adam-Goler) - [GitHub](https://github.com/gol3tron)
 
