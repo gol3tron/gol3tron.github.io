@@ -1,11 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: "CV"
+title: ""
 ---
-
-## Adam Goler
-
 [LinkedIn](https://www.linkedin.com/in/asgoler/) - [ResearchGate](https://www.researchgate.net/profile/Adam-Goler) - [GitHub](https://github.com/gol3tron)
 
 ### Key Skills
