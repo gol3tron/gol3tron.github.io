@@ -7,4 +7,6 @@
 #
 layout: home
 ---
-View this repository on [github](https://github.com/gol3tron/gol3tron.github.io).
+Hello! Welcome to my online [CV](https://gol3tron.github.io/cv), blog and portfolio! Thanks for visiting!
+
+You can view this repository on [github](https://github.com/gol3tron/gol3tron.github.io). It was created with the [minima](https://github.com/jekyll/minima) theme using [Jekyll](https://jekyllrb.com/). 
