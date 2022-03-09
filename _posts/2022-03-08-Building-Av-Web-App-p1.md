@@ -15,7 +15,7 @@ Specifically, I am envisioning creating a web-based tool that might perform a fe
 3. Create an "easy interpolator" for POH data to get performance data at specific conditions (generic such that it could be used as 1D or 2D interpolation of any type)
 4. Vector visualization for true heading, true course, wind correction angle analysis as an aid to instruction 
 5. Vector visualization for forces of flight, left turning tendencies
-6. Other simple calculators (pressure/density altitude, true airspeed/equivalent airspeed, top of climb/descent, crosswind component)
+6. Other simple calculators (pressure/density altitude, true airspeed/equivalent airspeed, top of climb/descent, crosswind component, maneuvering speed, stall speed vs bank/configuration/load factor)
 
 Ultimately, I'm not a graphic designer, so the visualizations may be limited or require some kind of plugin situation. I will have to figure that one out... Fortunately, the actual calculation part is straightforward and I plan to share all calculations/code/other materials as I create them!
 
@@ -23,5 +23,4 @@ Bonus for me as this project requires learning some web development. At this poi
 
 Stay tuned...
 
-Tailwinds,
-Adam
+Tailwinds!
