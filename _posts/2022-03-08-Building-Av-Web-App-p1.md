@@ -4,9 +4,9 @@ title: "Building an Aviation Web App (Part 1)"
 date: 2022-03-08
 tags: aviation python CFI
 ---
-Hi everyone,
+Have you ever wished to have a (free) web-based calculator/companion to flight planning or performance calcualations?
 
-I've been working on my CFI rating for a little while now, and in the process of constructing lesson plans it has occured to me that it might be instructive to create some kind of a web app and/or series of companion posts that might be useful in explaining a few basic principles of flight. 
+I've been working on my CFI rating for a little while now, and in the process of constructing lesson plans it has occured to me that it might be instructive to create some kind of a web app and/or series of companion posts as an aid to explaining basic principles of flight/aircraft performance. 
 
 Specifically, I am envisioning creating a web-based tool that might perform a few different functions:
 
@@ -18,6 +18,8 @@ Specifically, I am envisioning creating a web-based tool that might perform a fe
 6. Other simple calculators (pressure/density altitude, true airspeed/equivalent airspeed, top of climb/descent, crosswind component)
 
 Ultimately, I'm not a graphic designer, so the visualizations may be limited or require some kind of plugin situation. I will have to figure that one out... Fortunately, the actual calculation part is straightforward and I plan to share all calculations/code/other materials as I create them!
+
+Bonus for me as this project requires learning some web development. At this point, most likely that will require a separate site (since github only allows static pages) and probably something hacked together with [flask](https://flask.palletsprojects.com/en/2.0.x/) (or even a simple [jupyter notebook](https://jupyter.org/)) for starters. 
 
 Stay tuned...
 
