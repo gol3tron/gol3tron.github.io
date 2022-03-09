@@ -16,7 +16,9 @@ title: "CV"
 
 * Design of Experiments
 
-* Data Analysis
+* Data Analysis (mostly in Python and MATLAB)
+
+* Collaboration (development/version control using git)
 
 ### Employment History
 
