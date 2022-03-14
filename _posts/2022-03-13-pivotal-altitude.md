@@ -32,6 +32,28 @@ Well, remember that in order to have a level turn, we need our weight (gravitati
 $$ \sum F_{x} = m a_{c} = L \sin \theta $$
 $$ \sum F_{y} = 0 = L \cos \theta - mg $$
 
-Solving for....
+We can eliminate $L$ in the $F_{x}$ equation using $L = mg / \cos\theta$. Canceling the mass $m$, we have
 
-Stay tuned for the stunning conclusion!!!!
+$$ a_{c} = g \frac{\sin\theta}{\cos\theta} $$.
+
+And now inserting our knowledge that the centripedal force is the ratio of $v_{t}^{2}$ to $r$, and also the trig identity that $\tan\theta$ is the ratio of $\sin\theta$ to $\cos\theta$ we find that
+
+$$ \frac{v_{t}^{2}}{r} = g \tan \theta $$.
+
+Rearranging this, noting that $r\tan\theta = H$ defined above, we can solve for $H$, which is our pivotal altitude!
+
+$$ H = \frac{v_{t}^{2}}{g} $$
+
+Key insights here are that the pivotal altitude depends *only* on the aircraft ground speed, and that the radial distance as well as the bank angle (though implicitly related) do not have any impact on the altitude given by the above equation. 
+
+Note now that the typical formula given for pivotal altitude is in terms of the value 11.3, rather than good old $g$:
+
+$$ PA = \frac{GS^{2}}{11.3} $$, 
+
+where groundspeed (GS) is given in knots and the PA is in feet AGL. Simply convert $g = 9.81 m/s^2$ to units of $knots^2/ft$ and there you go! This will be left as an exercise for the reader... :)
+
+#### OK, so how does this help my fly eights on pylons?
+
+Knowledge is power, but so is practice. Tips on the actual maneuver is a totally different topic, but knowing where the equation comes from at least should help solidify that given a particular sight picture of a ground reference, pivotal altitude only depends on your groundspeed!
+
+Cheers and fly safe!
