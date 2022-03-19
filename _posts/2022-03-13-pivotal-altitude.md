@@ -11,6 +11,10 @@ A short discussion on the origins of the concept known as "pivotal altitude".
 
 If you've earned or are in the process of earning your commercial pilot certificate (single or multi) then you probably have heard of the concept known as the "pivotal altitude". Specifically, this concept is used in performing the maneuver known as "eights on pylons", which is a required maneuver on the commercial pilot check ride. It is a slightly advanced variation of the concept of "turns around a point", which is a required maneuver at the private pilot level. 
 
+```math
+x_{t} = \frac{1}{2\pi^{2} y}
+```
+
 Both of these maneuvers are similar in that they are known as ground reference maneuvers, which are performed at lower altitiudes. They are useful (hence required) for demonstrating a pilot's ability to judge the effects of wind during an extended maneuver, while dividing attention, staying coordinated, and maintaining a specific attitude with respect to a particular ground reference. 
 
 Turns around a point uses a single "pylon" or prominant ground reference point (such as a road intersection, building, or other distinguishable feature), whereas eights on pylons requires two points, spaced a certain distance apart. In the latter case, rather than flying a circle (over the ground) around the point, the pilot flies a figure eight pattern with the pylons at the centers of each of the "holes" in the figure eight. 
