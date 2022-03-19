@@ -11,14 +11,6 @@ A short discussion on the origins of the concept known as "pivotal altitude".
 
 If you've earned or are in the process of earning your commercial pilot certificate (single or multi) then you probably have heard of the concept known as the "pivotal altitude". Specifically, this concept is used in performing the maneuver known as "eights on pylons", which is a required maneuver on the commercial pilot check ride. It is a slightly advanced variation of the concept of "turns around a point", which is a required maneuver at the private pilot level. 
 
-```math
-x_{t} = \frac{1}{2\pi^{2} y}
-```
-
- {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
-
 Both of these maneuvers are similar in that they are known as ground reference maneuvers, which are performed at lower altitiudes. They are useful (hence required) for demonstrating a pilot's ability to judge the effects of wind during an extended maneuver, while dividing attention, staying coordinated, and maintaining a specific attitude with respect to a particular ground reference. 
 
 Turns around a point uses a single "pylon" or prominant ground reference point (such as a road intersection, building, or other distinguishable feature), whereas eights on pylons requires two points, spaced a certain distance apart. In the latter case, rather than flying a circle (over the ground) around the point, the pilot flies a figure eight pattern with the pylons at the centers of each of the "holes" in the figure eight. 
@@ -29,9 +21,11 @@ In the eights on pylons maneuver, the pilot is required to maintain approximatel
 
 #### Talk is cheap, show me the math
 
-Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height \(H\) above the ground, with bank angle \(\theta\), and that we are a radial distance \(r\) from the reference object in question. Let's also call our airspeed \(v_{t}\) (the \(t\) is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
+Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height $$H$$ above the ground, with bank angle \(\theta\), and that we are a radial distance \(r\) from the reference object in question. Let's also call our airspeed \(v_{t}\) (the \(t\) is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
 
-\[ a_{c} = \frac{v_{t}^2}{r} \].
+ {% raw %}
+  $$ a_{c} = \frac{v_{t}^2}{r} $$.
+ {% endraw %}
 
 Great. Now what? 
 
