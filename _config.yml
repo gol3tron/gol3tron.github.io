@@ -1,6 +1,8 @@
 title: ~/gol3tron
 #description: "Fear is the mind killer."
 
+markdown: kramdown
+
 author:
   name: Adam Goler
   email: adamgoler@gmail.com
