@@ -15,6 +15,10 @@ If you've earned or are in the process of earning your commercial pilot certific
 x_{t} = \frac{1}{2\pi^{2} y}
 ```
 
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+
 Both of these maneuvers are similar in that they are known as ground reference maneuvers, which are performed at lower altitiudes. They are useful (hence required) for demonstrating a pilot's ability to judge the effects of wind during an extended maneuver, while dividing attention, staying coordinated, and maintaining a specific attitude with respect to a particular ground reference. 
 
 Turns around a point uses a single "pylon" or prominant ground reference point (such as a road intersection, building, or other distinguishable feature), whereas eights on pylons requires two points, spaced a certain distance apart. In the latter case, rather than flying a circle (over the ground) around the point, the pilot flies a figure eight pattern with the pylons at the centers of each of the "holes" in the figure eight. 
