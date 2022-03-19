@@ -21,7 +21,7 @@ In the eights on pylons maneuver, the pilot is required to maintain approximatel
 
 #### Talk is cheap, show me the math
 
-Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height $$H$$ above the ground, with bank angle \(\theta\), and that we are a radial distance \(r\) from the reference object in question. Let's also call our airspeed \(v_{t}\) (the \(t\) is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
+Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height $$H$$ above the ground, with bank angle $$\theta$$, and that we are a radial distance \(r\) from the reference object in question. Let's also call our airspeed \(v_{t}\) (the \(t\) is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
 
  {% raw %}
   $$ a_{c} = \frac{v_{t}^2}{r} $$.
