@@ -21,38 +21,60 @@ In the eights on pylons maneuver, the pilot is required to maintain approximatel
 
 #### Talk is cheap, show me the math
 
-Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height $$H$$ above the ground, with bank angle $$\theta$$, and that we are a radial distance \(r\) from the reference object in question. Let's also call our airspeed \(v_{t}\) (the \(t\) is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
+Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height $$H$$ above the ground, with bank angle $$\theta$$, and that we are a radial distance $$r$$ from the reference object in question. Let's also call our airspeed $$v_{t}$$ (the $$t$$ is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
 
  {% raw %}
   $$ a_{c} = \frac{v_{t}^2}{r} $$.
  {% endraw %}
 
+ {% raw %}
+  \[ a_{c} = \frac{v_{t}^2}{r} \].
+ {% endraw %}
+
+ {% raw %}
+ \begin{equation}
+  a_{c} = \frac{v_{t}^2}{r}.
+ \end{equation}
+ {% endraw %}
+
 Great. Now what? 
 
-Well, remember that in order to have a level turn, we need our weight (gravitational force) to be balanced by lift. Since we are in a bank, we know this is the vertical component of lift, whereas the horizontal component (with respect to Earth's surface) is the force causing us to turn. So, we can write an expression of Newton's Second Law in both the vertical and horizontal directions:
+Well, remember that in order to have a level turn, we need our weight (gravitational force) to be balanced by the force of lift, $$L$$. Since we are in a bank, we know this is the vertical component of lift, whereas the horizontal component (with respect to Earth's surface) is the force causing us to turn. So, we can write an expression of Newton's Second Law in both the vertical and horizontal directions:
 
-\[ \sum F_{x} = m a_{c} = L \sin \theta \]
-\[ \sum F_{y} = 0 = L \cos \theta - mg \]
+ {% raw %}
+  $$ \sum F_{x} = m a_{c} = L \sin \theta $$
+ {% endraw %}
+ {% raw %}
+  $$ \sum F_{y} = 0 = L \cos \theta - mg $$
+ {% endraw %}
 
-We can eliminate $L$ in the \(F_{x}\) equation using \(L = mg / \cos\theta\). Canceling the mass \(m\), we have
+We can eliminate $L$ in the $$F_{x}$$ equation using $$L = mg / \cos\theta$$. Canceling the mass $$m$$, we have
 
-\[ a_{c} = g \frac{\sin\theta}{\cos\theta} \].
+ {% raw %}
+  $$ a_{c} = g \frac{\sin\theta}{\cos\theta} $$.
+ {% endraw %}
 
-And now inserting our knowledge that the centripedal force is the ratio of \(v_{t}^{2}\) to \(r\), and also the trig identity that \(\tan\theta\) is the ratio of \(\sin\theta\) to \(\cos\theta\) we find that
+And now inserting our knowledge that the centripedal force is the ratio of $$v_{t}^{2}$$ to $$r$$, and also the trig identity that $$\tan\theta$$ is the ratio of $$\sin\theta$$ to $$\cos\theta$$ we find that
 
-\[ \frac{v_{t}^{2}}{r} = g \tan \theta \].
+ {% raw %}
+  $$ \frac{v_{t}^{2}}{r} = g \tan \theta $$.
+ {% endraw %}
 
-Rearranging this, noting that \(r\tan\theta = H\) defined above, we can solve for \(H\), which is our pivotal altitude!
+Rearranging this, noting that $$r\tan\theta = H$$ defined above, we can solve for $$H$$, which is our pivotal altitude!
 
-\[ H = \frac{v_{t}^{2}}{g} \]
+ {% raw %}
+  $$ H = \frac{v_{t}^{2}}{g} $$
+ {% endraw %}
 
 Key insights here are that the pivotal altitude depends *only* on the aircraft ground speed, and that the radial distance as well as the bank angle (though implicitly related) do not have any impact on the altitude given by the above equation. 
 
-Note now that the typical formula given for pivotal altitude is in terms of the value 11.3, rather than good old \(g\):
+Note now that the typical formula given for pivotal altitude is in terms of the value 11.3, rather than good old $$g$$:
 
-\[ PA = \frac{GS^{2}}{11.3} \], 
+ {% raw %}
+  $$ PA = \frac{GS^{2}}{11.3} $$, 
+ {% endraw %}
 
-where groundspeed (GS) is given in knots and the PA is in feet AGL. Simply convert \(g = 9.81 m/s^2\) to units of \(knots^2/ft\) and there you go! This will be left as an exercise for the reader... :)
+where groundspeed (GS) is given in knots and the PA is in feet AGL. Simply convert $$g = 9.81 m/s^2$$ to units of $$knots^2/ft$$ and there you go! This will be left as an exercise for the reader... :)
 
 #### OK, so how does this help my fly eights on pylons?
 
