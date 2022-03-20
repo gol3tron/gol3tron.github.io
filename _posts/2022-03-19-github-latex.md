@@ -9,7 +9,7 @@ Wondering if github pages/Jekyll supports $$\LaTeX$$? It does!
 
 #### What is $$\LaTeX$$?
 
-$$\LaTeX$$ is an elegant language for typesetting and is particularly useful for mathematical expressions. It has a very straightforward and easy to learn process that will have you writing the most complex equations on a computer with ease in no time! 
+$$\LaTeX$$ is an elegant language for typesetting and is particularly useful for mathematical expressions. It has a very straightforward and easy to learn process that will have you writing the most complex equations on a computer with ease in no time! In this case, I'm using [MathJax]{https://www.mathjax.org} and [Kramdown]{https://kramdown.gettalong.org}, which are compatible with [Jekyll]{https://jekyllrb.com}.
 
 #### How do I do it in Jekyll/github pages?
 
