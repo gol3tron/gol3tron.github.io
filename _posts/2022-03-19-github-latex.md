@@ -44,5 +44,12 @@ will typeset as...
   x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}{2a}
  \end{equation}
  {% endraw %}
+ 
+  {% raw %}
+ \begin{equation}
+  a_{c} = \frac{v_{t}^2}{r}.
+ \end{equation}
+ {% endraw %}
+
 
 And there you go! Happy typesetting!
