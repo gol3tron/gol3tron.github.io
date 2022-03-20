@@ -32,22 +32,16 @@ markdown: kramdown
 ```
 {% raw %}
 \begin{equation}
-x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}{2a}
+x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}}{2a}
 \end{equation}
 {% endraw %}
 ```
 
 will typeset as...
-
- {% raw %}
- \begin{equation}
-  x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}{2a}
- \end{equation}
- {% endraw %}
  
   {% raw %}
  \begin{equation}
-  a_{c} = \frac{v_{t}^2}{r}.
+  x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}}{2a}
  \end{equation}
  {% endraw %}
 
