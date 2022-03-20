@@ -24,14 +24,6 @@ In the eights on pylons maneuver, the pilot is required to maintain approximatel
 Let's assume we are flying in an aircraft in a level turn around a ground reference point at a height $$H$$ above the ground, with bank angle $$\theta$$, and that we are a radial distance $$r$$ from the reference object in question. Let's also call our airspeed $$v_{t}$$ (the $$t$$ is for "tangential" to the circular path). We then know that our centripedal acceleration (not centrifugal since we are not using a rotating reference frame) is given by
 
  {% raw %}
-  $$ a_{c} = \frac{v_{t}^2}{r} $$.
- {% endraw %}
-
- {% raw %}
-  \[ a_{c} = \frac{v_{t}^2}{r} \].
- {% endraw %}
-
- {% raw %}
  \begin{equation}
   a_{c} = \frac{v_{t}^2}{r}.
  \end{equation}
@@ -42,28 +34,28 @@ Great. Now what?
 Well, remember that in order to have a level turn, we need our weight (gravitational force) to be balanced by the force of lift, $$L$$. Since we are in a bank, we know this is the vertical component of lift, whereas the horizontal component (with respect to Earth's surface) is the force causing us to turn. So, we can write an expression of Newton's Second Law in both the vertical and horizontal directions:
 
  {% raw %}
-  $$ \sum F_{x} = m a_{c} = L \sin \theta $$
+  \begin{equation} \sum F_{x} = m a_{c} = L \sin \theta \end{equation}
  {% endraw %}
  {% raw %}
-  $$ \sum F_{y} = 0 = L \cos \theta - mg $$
+  \begin{equation} \sum F_{y} = 0 = L \cos \theta - mg \end{equation}
  {% endraw %}
 
 We can eliminate $L$ in the $$F_{x}$$ equation using $$L = mg / \cos\theta$$. Canceling the mass $$m$$, we have
 
  {% raw %}
-  $$ a_{c} = g \frac{\sin\theta}{\cos\theta} $$.
+  \begin{equation} a_{c} = g \frac{\sin\theta}{\cos\theta} .\end{equation}
  {% endraw %}
 
 And now inserting our knowledge that the centripedal force is the ratio of $$v_{t}^{2}$$ to $$r$$, and also the trig identity that $$\tan\theta$$ is the ratio of $$\sin\theta$$ to $$\cos\theta$$ we find that
 
  {% raw %}
-  $$ \frac{v_{t}^{2}}{r} = g \tan \theta $$.
+  \begin{equation} \frac{v_{t}^{2}}{r} = g \tan \theta .\end{equation}
  {% endraw %}
 
 Rearranging this, noting that $$r\tan\theta = H$$ defined above, we can solve for $$H$$, which is our pivotal altitude!
 
  {% raw %}
-  $$ H = \frac{v_{t}^{2}}{g} $$
+  \begin{equation} H = \frac{v_{t}^{2}}{g} \end{equation}
  {% endraw %}
 
 Key insights here are that the pivotal altitude depends *only* on the aircraft ground speed, and that the radial distance as well as the bank angle (though implicitly related) do not have any impact on the altitude given by the above equation. 
@@ -71,7 +63,7 @@ Key insights here are that the pivotal altitude depends *only* on the aircraft g
 Note now that the typical formula given for pivotal altitude is in terms of the value 11.3, rather than good old $$g$$:
 
  {% raw %}
-  $$ PA = \frac{GS^{2}}{11.3} $$, 
+  \begin{equation} PA = \frac{GS^{2}}{11.3} ,\end{equation} 
  {% endraw %}
 
 where groundspeed (GS) is given in knots and the PA is in feet AGL. Simply convert $$g = 9.81 m/s^2$$ to units of $$knots^2/ft$$ and there you go! This will be left as an exercise for the reader... :)
