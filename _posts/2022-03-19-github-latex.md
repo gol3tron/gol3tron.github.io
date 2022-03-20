@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding basic latex to a post in github pages"
+title: "Adding Basic TeX to a Post in Github Pages"
 date: 2022-03-19
 tags: code help
 ---
