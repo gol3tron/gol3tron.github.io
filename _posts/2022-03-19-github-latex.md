@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding basic $$\LaTeX$$ to a post in github pages"
+title: "Adding basic latex to a post in github pages"
 date: 2022-03-19
 tags: code help
 ---
@@ -39,10 +39,10 @@ x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}{2a}
 
 will typeset as...
 
-{% raw %}
-\begin{equation}
-x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}{2a}
-\end{equation}
-{% endraw %}
+ {% raw %}
+ \begin{equation}
+  x = \frac{-b^{2} \pm \sqrt{b^{2} - 4ac}{2a}
+ \end{equation}
+ {% endraw %}
 
 And there you go! Happy typesetting!
