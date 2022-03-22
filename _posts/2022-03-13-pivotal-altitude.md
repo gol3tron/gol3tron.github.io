@@ -15,7 +15,7 @@ Both of these maneuvers are similar in that they are known as ground reference m
 
 Turns around a point uses a single "pylon" or prominant ground reference point (such as a road intersection, building, or other distinguishable feature), whereas eights on pylons requires two points, spaced a certain distance apart. In the latter case, rather than flying a circle (over the ground) around the point, the pilot flies a figure eight pattern with the pylons at the centers of each of the "holes" in the figure eight. 
 
-#### Why is the altitude important? 
+#### Why is the "pivotal altitude" altitude important? 
 
 In the eights on pylons maneuver, the pilot is required to maintain approximately 30 degrees of bank, at a constant power setting, while flying a consistent ground track with respect to two physical points on the ground. By using constant power, the airspeed is essentially constant, so given a required bank angle (say 30 degrees), to track our reference in a circular path we are restricted to a *specific* altitude. That altitude is called the **pivotal altitude**. Your ground speed (since this is a ground reference maneuver) is the key parameter here. Fly faster, and the pivotal altitude increases; Fly slower and the reverse is true. The desired bank angle only relates to your distance from the ground reference point. It will turn out to not affect the pivotal altitude at all (as we will see)!
 
