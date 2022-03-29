@@ -42,7 +42,7 @@ title: "CV"
 
 * Attend meetings, briefings, working groups, and events relating to the Advanced Capabilities Branch and Marine Innovation Unit mission to develop and maintain situational awareness and represent MIU’s interests
 
-*Team Member, MARFORCYBER Reserve Capture the Flag Team (October 2021 - present)*
+*Team Member, MARFORCYBER Reserve Capture the Flag Team (October 2021 - March 2022)*
 
 * Competed in monthly CTF events
 
