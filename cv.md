@@ -24,11 +24,23 @@ title: "CV"
 
 *R&D Engineer, Pivotal Systems Corporation (July 2017 - present)*
 
-* Technical program management of new products for critical industry applications
+* Technical program management of new products for critical industry applications 
 
 * Identified and guided suppliers in producing custom sensor and actuator solutions for next-generation products
 
 * Built, developed, and lead cross functional teams in pursuit of aggressive prototype development and delivery schedules
+
+* Expertise in specifying, testing, implementing piezoresistive pressure sensors, various thermal sensors, piezoceramic actuators, and signal conditioning with ADC/DAC systems
+
+*Experimentation and Prototyping Manager, [Marine Innovation Unit](https://www.marforres.marines.mil/MIU/) (March 2022 - present)*
+
+* Leverage technical expertise to test, explore, and evaluate new technologies in testing environments and exercises to assess relevance and impact of targeted technologies to current and future Marine Corps requirements
+ 
+* Research innovative technologies that may improve the MAGTF's capabilities in current and future operational environments, develop new project initiatives, assess the impact of novel technologies on existing concepts, and, where necessary, develop new concepts to exploit these technologies
+
+* Liaise with other government and non-government offices to leverage common efforts toward solving current and future technological challenges
+
+* Attend meetings, briefings, working groups, and events relating to the Advanced Capabilities Branch and Marine Innovation Unit mission to develop and maintain situational awareness and represent MIU’s interests
 
 *Team Member, MARFORCYBER Reserve Capture the Flag Team (October 2021 - present)*
 
