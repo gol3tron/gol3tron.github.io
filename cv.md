@@ -22,7 +22,21 @@ title: "CV"
 
 ### Employment History
 
-*R&D Engineer, Pivotal Systems Corporation (July 2017 - present)*
+*Flight Instructor, [ABC Flight Training LLC](https://www.abcflight.school) (July 2022 - Present)*
+
+* Conducted primary flight and ground instruction under 14 CFR Part 61 in various piston aircraft
+
+* Provided flight reviews, aircraft checkouts, and instruction under the FAA Wings program
+
+*Data Scientist/Machine Learning Ops Engineer, [Savvy Aviation](https://www.savvyaviation.com) (April 2022 - Present)*
+
+* Developed machine learning models for piston aircraft maintenance using engine monitor data
+
+* Managed codebase for Failing Exhaust Valve Analytics Program
+
+* Supervised collaborative work with UC Davis Business Analytics Program
+
+*R&D Engineer, Pivotal Systems Corporation (July 2017 - July 2022)*
 
 * Technical program management of new products for critical industry applications 
 
@@ -84,7 +98,7 @@ BS, Physics and Mathematics, American University, 2009
 
 ### Other skills and interests
 
-Commercial Pilot Single Engine Land w/ Instrument Rating ([experience report](web_logbook.pdf))
+Certified Flight Instructor, Airplane Single Engine Land, Instrument Airplane ([experience report](web_logbook.pdf))
 
 FAA First Class Medical
 
