@@ -5,9 +5,9 @@ date: 2024-02-08
 tags: flying cfi 
 ---
 
-#### Introduction
+Have you ever heard of the [“50-70” rule](https://www.aopa.org/news-and-media/all-news/2023/june/pilot/flying-smart-reality-check) for planning your takeoff abort criteria? 
 
-Have you ever heard of the [“50-70” rule](https://www.aopa.org/news-and-media/all-news/2023/june/pilot/flying-smart-reality-check) for planning your takeoff abort criteria? I find it to be an extremely common "rule of thumb" applied with the best intentions to pre-takeoff briefings. The goal is laudable: we always want to make sure we brief some kind of abort point and speed so that we are primed to take action in the event of anything out of the ordinary during our takeoff roll. 
+I find it to be an extremely common "rule of thumb" applied with the best intentions to pre-takeoff briefings. The goal is laudable: we always want to make sure we brief some kind of abort point and speed so that we are primed to take action in the event of anything out of the ordinary during our takeoff roll. 
 
 For example, if you're burning up runway and are nowhere near the airspeed you need to take off, whether the problem is mechanical or otherwise, this should be treated as a "rejected takeoff" and the appropriate procedure should be followed to come to a stop on the remaining runway before damaging the aircraft or anything else in the airport environment (including the people onboard or nearby) should we overrun the runway. 
 
