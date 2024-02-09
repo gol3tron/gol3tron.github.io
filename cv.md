@@ -6,7 +6,7 @@ title: "CV"
 
 ## Adam S. Goler
 
-[LinkedIn](https://www.linkedin.com/in/asgoler/) - [ResearchGate](https://www.researchgate.net/profile/Adam-Goler) - [GitHub](https://github.com/gol3tron)
+[LinkedIn](https://www.linkedin.com/in/asgoler/) - [ResearchGate](https://www.researchgate.net/profile/Adam-Goler) - [GitHub](https://github.com/gol3tron) - [CFI Website](https://www.abcflight.school) - [CFI Instagram](https://www.instagram.com/adam_goler_cfii/)
 
 ### Key Skills
 
